@@ -1,0 +1,7 @@
+<%= container(tag: :div) do %>
+  <%= cell(CardCell, class: "CardCell") %>
+  <%= cell(CardCell, class: "CardCell") %>
+  <%= cell(CardCell, class: "CardCell") %>
+  <%= cell(CardCell, class: "CardCell") %>
+  <%= cell(CardCell, class: "CardCell") %>
+<% end %>

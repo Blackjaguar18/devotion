@@ -1,0 +1,6 @@
+.CardCell {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  background-color: lightblue;
+}
