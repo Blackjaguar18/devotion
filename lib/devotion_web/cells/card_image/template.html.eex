@@ -1,0 +1,3 @@
+<%= container(tag: :div) do %>
+  Image
+<% end %>

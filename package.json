@@ -1,0 +1,21 @@
+{
+  "name": "devotion",
+  "version": "0.0.1",
+  "description": "Cardgame",
+  "main": "brunch-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard van der Veen",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "brunch": "^2.10.12",
+    "vue": "^2.5.13",
+    "vue-brunch": "^2.0.1"
+  }
+}
